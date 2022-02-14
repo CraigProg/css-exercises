@@ -1,0 +1,19 @@
+.type1 {
+    background-color: rgba(224, 28, 94, 0.678);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.type2 {
+    font-size: 24px;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div2 {
+    background: rgb(69, 204, 64);
+    font-size: 24px;
+    font-weight: bold;
+}
